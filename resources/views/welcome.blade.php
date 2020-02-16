@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Person Functions!!!
                 </div>
 
                 <div class="links">
